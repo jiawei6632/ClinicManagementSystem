@@ -1,0 +1,9 @@
+D001,Kai,Ophthalmology,Mon 10pm,false
+D002,Sam,Surgery,Mon 8pm,true
+D003,Lim,Orthopaedics,Not Assigned,true
+D004,Red,Cardiology,Mon 9am-5pm,true
+D005,a1,Gastroenterology,Not Assigned,true
+D006,ww,Otorhinolaryngology,Not Assigned,true
+D0007,Alic,Obstetrics and Gynecology (O&G),Not Assigned,true
+D008,Aq,Gastroenterology,Not Assigned,false
+D009,Wei,Family Medicine,Not Assigned,true
